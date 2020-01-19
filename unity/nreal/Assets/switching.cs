@@ -4,14 +4,14 @@ using UnityEngine;
 
 public class switching : MonoBehaviour
 {
-    public string level_name = "Input-ControllerInfo";
+    private string level_name = "MRSLLS Scene";
     public AudioSource a1;
     // public GameObject SphereToChange;
     
     // Start is called before the first frame update
     void Start()
     {
-        
+        a1.Play();
     }
    public void ChangeScene(){
         // SphereToChange.GetComponent<Renderer>().material.color = Color.red;

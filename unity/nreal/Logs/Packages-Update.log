@@ -41,3 +41,12 @@ The following packages were added:
   com.unity.modules.vr@1.0.0
   com.unity.modules.wind@1.0.0
   com.unity.modules.xr@1.0.0
+
+=== Sat Jan 18 18:11:25 2020
+
+Packages were changed.
+Update Mode: mergeDefaultDependencies
+
+The following packages were added:
+  com.unity.xr.oculus.standalone@1.38.3
+  com.unity.xr.openvr.standalone@1.0.5

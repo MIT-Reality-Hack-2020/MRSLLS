@@ -2,7 +2,7 @@ Android
 PlayerPath?
 C:/Users/Dewd/Desktop/github/mitrealityhack27/unity/nreal/nrealtest.apk
 SceneListBegin?
-Assets/basescene.unity
+Assets/NRSDK/Demos/Input-VirtualController.unity
 SceneListEnd?
 3c08375166df118bd1801438fc36b92f Unity.TextMeshPro.dll:TMPro.TMP_SelectionCaret
 77c21079ace8d76ce6e941d3dabbfe6e Unity.TextMeshPro.dll:TMPro.TMP_Dropdown
@@ -208,6 +208,7 @@ d251bf88db6c95a6b1aa0b69298da9ef UnityEngine.SpatialTracking.dll:UnityEngine.Spa
 eb0a05ebdcc086276c705fa928dfdcc7 Assembly-CSharp.dll:NRKernal.NRExamples.VideoCaptureLocalExample
 362613242dbe4e919d768a18cb8305e0 Assembly-CSharp.dll:NRKernal.NRLaserVisual
 27015f0380e6ed3e9f2c57cfdd605e09 Assembly-CSharp.dll:NRKernal.NRExamples.ControllerInfoDisplayUI
+35ab988e59c79e2ecd86f04a7c90934c Assembly-CSharp.dll:.switching
 fb28dd07ae261822ab5f4e77c0a8f14b Assembly-CSharp.dll:NRKernal.FPSDisplay
 71bb6a6b6c8f052f948db64c7dd3ca4f Assembly-CSharp.dll:NRKernal.NRExamples.TrackableImageBehaviour
 d791aa6007fa3640be1164ea75bb087d Unity.TextMeshPro.dll:TMPro.TMP_StyleSheet
@@ -233,4 +234,47 @@ d7ef427815a2bcee014988403a851f81 Assembly-CSharp.dll:NRKernal.NRVirtualDisplayer
 9ddebc8dcdb6e3f698d4c0c0e572eddb Assembly-CSharp.dll:NRKernal.FollowMouseMove
 51c200a734c4dfe1c5dff13ce2b3b078 Assembly-CSharp.dll:NRKernal.NRSessionConfig
 0a0eda6a19b4f82d3d4576e489c0a56b Assembly-CSharp.dll:NRKernal.NRExamples.TestNetBehaviour
-469e20dc8887cc25262a89bd631f1d83 Assembly-CSharp.dll:.switching
+e8b8eeb49e26ebd17228b3cea606e143 Assembly-CSharp.dll:.whenTyped
+56afec0437210901b836f15198e896e4 Assembly-CSharp.dll:.whenHit
+d010b956d9348670e07736717a00dc56 Assembly-CSharp.dll:.whenTouched
+a67fb0c1f84cb4a012f7d1e43ee25afa Assembly-CSharp.dll:.whenStill
+7e91fc2fdfd507dd9d99f80c0ab7d2b8 Assembly-CSharp.dll:.whenVisible
+e8b8eeb49e26ebd17228b3cea606e143 Assembly-CSharp.dll:.whenPressed
+b6d71a4398b16aab7d16dd9d138544c3 Assembly-CSharp.dll:.whenDistant
+98203825f24c476d2683e1bcdde2c762 Assembly-CSharp.dll:.whenAway
+605945e5dd38cc34a36af706fcbac141 Assembly-CSharp.dll:.toAttach
+56afec0437210901b836f15198e896e4 Assembly-CSharp.dll:.whenHeld
+351aad3259a89e389169cdaab1df912c Assembly-CSharp.dll:.toStep
+b153515074d00db2a7130845824f2a31 Assembly-CSharp.dll:.toDescend
+351aad3259a89e389169cdaab1df912c Assembly-CSharp.dll:.toBackstep
+75e37b00dbb699d03a80a8fa0ef54f35 Assembly-CSharp.dll:.toSwitch
+56afec0437210901b836f15198e896e4 Assembly-CSharp.dll:.toDie
+2b74edc8050c3082acaa4e82fc9f939c Assembly-CSharp.dll:.toWait
+cdb5ba20ec82731d7a200e9b5f020eb6 Assembly-CSharp.dll:.toApproach
+79523c10619e1f776062110fc3f680f8 Assembly-CSharp.dll:.toGrow
+15cfd614425cdbaa47e7a87f1d3ed06a Assembly-CSharp.dll:.toFollow
+be74d28198c828ed596fbc271416cc15 Assembly-CSharp.dll:.toLoad
+9a944713540e48cb1aaac6a17846897e Assembly-CSharp.dll:.Verb
+4adc2de9e82e2aab7615c9622b008a34 Assembly-CSharp.dll:.toCount
+3f21bce32ceb39c6d69d571fa3c9657e Assembly-CSharp.dll:.toReturn
+2bfa55b0022968d78f0432e4dc37fb9d Assembly-CSharp.dll:.toRotate
+521da86702dac4b10a9212a789fe7008 Assembly-CSharp.dll:.toColor
+90b2c5775a10cb2cb0d8be9673890551 Assembly-CSharp.dll:.toKill
+4e467fa8110ec3f1075b3c164da0af34 Assembly-CSharp.dll:.toAscend
+c7a8cd1aa1b5e3082c1efb96c89ce0e5 Assembly-CSharp.dll:.toThrust
+fba432ceba722237a7eadcc2b3357f34 Assembly-CSharp.dll:.toStop
+9a944713540e48cb1aaac6a17846897e Assembly-CSharp.dll:.Trigger
+d598b21c1742ebb663ee930fd77ab6c3 Assembly-CSharp.dll:.toCheck
+3b0179c4ad02f975da7f978d8e167ee5 Assembly-CSharp.dll:.toShrink
+6e77224d84361b9735ba8dfb2d6afd2c Assembly-CSharp.dll:.whenWatched
+b28b30905386d54b24336274a93f472e Assembly-CSharp.dll:.toStrafe
+d87ef66efa9b5572eff5e161c330adb7 Assembly-CSharp.dll:.toDisable
+bd203957c736f5d54a323c9e902fe904 Assembly-CSharp.dll:.toFace
+56afec0437210901b836f15198e896e4 Assembly-CSharp.dll:.toSample
+b6e9ab05803dd744e5993353321e7206 Assembly-CSharp.dll:.toTeleport
+d87ef66efa9b5572eff5e161c330adb7 Assembly-CSharp.dll:.toEnable
+93b5e4e826d59b450987a26e741deb83 Assembly-CSharp.dll:.toSpawn
+56afec0437210901b836f15198e896e4 Assembly-CSharp.dll:.toExample
+5fc0996a15da8373db61bfee4af5d366 Assembly-CSharp.dll:.toSequence
+db28238a3fd04c835fc7e18b33a81124 Assembly-CSharp.dll:.audioPositionAlters
+964bad98a8296b494db795d1cfb34d52 Assembly-CSharp.dll:.toOrbit
